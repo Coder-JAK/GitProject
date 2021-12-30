@@ -1,3 +1,6 @@
-To understand the branch concept.
+1. To understand the branch concept.
 
-conflict for rebasing.
+2. conflict for rebasing.
+
+3. To understanding merging using rebase.
+
