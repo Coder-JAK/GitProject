@@ -3,6 +3,9 @@ Hello to World form Jeet.
 
 Open Html File.
 
-In the browser for the viewing.
+In the browser for the view.
 
 Changing done by teammate and merged with main while i am working.
+
+Modified for rebase.
+
